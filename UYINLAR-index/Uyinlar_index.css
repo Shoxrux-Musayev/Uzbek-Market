@@ -1,0 +1,103 @@
+ * {
+ 	margin: 0;
+	padding: 0;
+	list-style-type: none;
+	box-sizing: border-box;
+ }
+
+  	body {
+	margin: 0;
+	padding: 0;
+	justify-content: center;
+	align-items: center;
+
+}
+.menyu {
+	width: 1100px;
+	height: 44px;
+	margin: 0 auto;
+	border-radius-left-bottom: 50px;
+	;
+	background-color: #4d0066; 
+
+	box-shadow: 0px 8px 20px 1px #9900cc;
+	margin-top: -50px;
+}
+
+.najot_emblima{
+	width: 115px;
+	height: 100px;
+	border-radius: 26% 21% 40% 44% / 21% 22% 68% 67%;
+	margin-top: 55px;
+	margin-left: -80px;
+	box-shadow: 0px 8px 20px 1px #9900cc; 
+}
+
+.menu_ul{
+	display: flex;
+	margin-left: 10px;
+}
+
+.menu_li{
+	margin-top: 12px;
+	padding-left: 1px;
+	padding-right: 1px;
+	background-color: #4d0066;
+}
+
+.menu_li:hover {
+	margin-top: 12px;
+	padding-left: 1px;
+	padding-right: 1px;
+	background-color: #e6b3e6;
+	color: red;
+}
+
+.menu_a {
+	text-decoration: none;
+	color: white;
+}
+
+.nav-link {
+	color: white;
+	margin-left: 10px;
+	margin-right: 10px; 
+	font-family: serif;.
+}
+
+.poisk{
+	margin-top: 15px;
+	margin-left: 10px;
+	font-family: sans-serif;
+}
+
+.qidiruv {
+	background-color: #9900cc;
+	color: white;
+	border: 3px solid purple;
+}
+
+.menu_tepa {
+	width: 1350px;
+	height: 600px;
+	background-color: black;
+	margin: 0 auto;
+	border-radius: 0% 0% 10% 8% / 0% 0% 4% 5%
+	;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
